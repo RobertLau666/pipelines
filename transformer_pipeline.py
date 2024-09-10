@@ -3,6 +3,7 @@
 # ======================================
 """
 code by Tae Hwan Jung(Jeff Jung) @graykode, Derek Miller @dmmiller612, modify by shwei
+blog: https://blog.csdn.net/BXD1314/article/details/126187598
 Reference: https://github.com/jadore801120/attention-is-all-you-need-pytorch
            https://github.com/JayParks/transformer
 """
